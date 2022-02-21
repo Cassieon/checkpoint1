@@ -50,10 +50,10 @@
 
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
-    Index 1
+    
 
 19) What does frontend / client side mean?
-
+    It is the aestheticly pleasing side of programing that everybod sees
 
 20) What does backend / server side mean?
 
