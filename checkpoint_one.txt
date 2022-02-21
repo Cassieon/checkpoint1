@@ -65,19 +65,18 @@
 
 
 23) Are we able to add two strings together? How?
-    yes, by adding the + symbol 
-    Ex: print("hola" + "mundo")
+    
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     
-    Desktop
-    -> projects
-        -> instagram
-            -> images
-                -> profile_image.jpg
-            -> app.py
-        -> tiktok
-            -> clips
+    Desktop                 mkdir projects
+    -> projects             mkdir instagram
+        -> instagram        mkdir images
+            -> images       touch profile_image.jpg
+                -> profile_image.jpg               cd instagram then touch app.py
+            -> app.py       cd projects then mkdir ticktok
+        -> tiktok           mkdir clips
+            -> clips        touch app.py
             -> app.py
 
 
