@@ -69,19 +69,19 @@
 
 24) What commands would you use to create the following file structure? (write every command line by line):
     
-    Desktop                 mkdir projects
-    -> projects             mkdir instagram
-        -> instagram        mkdir images
-            -> images       touch profile_image.jpg
-                -> profile_image.jpg               cd instagram then touch app.py
-            -> app.py       cd projects then mkdir ticktok
-        -> tiktok           mkdir clips
-            -> clips        touch app.py
+    Desktop                 
+    -> projects            
+        -> instagram        
+            -> images       
+                -> profile_image.jpg               
+            -> app.py       
+        -> tiktok           
+            -> clips        
             -> app.py
 
 
 25) What is the path to profile_image.jpg?
-
+    destop/projects/instagram/images/profile_image.jpg
 
 26) What commands can I use to get from the clips directory to the images directory? (write every command line by line):
 
