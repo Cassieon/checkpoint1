@@ -23,10 +23,10 @@
 
 
 9) What's the key difference between git revert and git reset?
-    Revert keeps the history of the changes made
+
 
 10) What's the key difference between Python lists and tuples?
-
+    You can't change the value fo a variable when using a tuple
 
 11) What can I do to know where I am within my file system?
 
