@@ -41,13 +41,13 @@
 
 
 15) What data type are True and False?
-    
+
 
 16) What language does your computer understand?
-    binary code
+
 
 17) What do we need in order for your computer to make use of programming languages?
-
+    A shell program like Linux/Unix
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
