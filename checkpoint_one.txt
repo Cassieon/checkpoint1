@@ -1,5 +1,5 @@
 1) What are comments?
-Comments are made with a # and used to make notes hidden from the code.
+
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
