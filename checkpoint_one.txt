@@ -1,8 +1,9 @@
 1) What are comments?
-comments start with # and are used to mke notes hidded frm the code
+
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
-
+single line comment- #
+Multi line comment - """ (at the beginning) """ (at the end)
 
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 
