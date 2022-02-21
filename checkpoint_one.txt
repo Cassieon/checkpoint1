@@ -1,5 +1,5 @@
 1) What are comments?
-
+comments start with # and are used to mke notes hidded frm the code
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
