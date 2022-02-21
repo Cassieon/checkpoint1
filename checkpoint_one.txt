@@ -53,10 +53,10 @@
     
 
 19) What does frontend / client side mean?
-    It is the aestheticly pleasing side of programing that everybod sees
+
 
 20) What does backend / server side mean?
-
+    It is where all the code is written that can't be seen by the user
 
 21) What are 3 way to create a Python string?
 
