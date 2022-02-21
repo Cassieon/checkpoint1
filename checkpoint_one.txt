@@ -26,10 +26,10 @@
 
 
 10) What's the key difference between Python lists and tuples?
-    You can't change the value fo a variable when using a tuple
+
 
 11) What can I do to know where I am within my file system?
-
+    pwd "print working directory"
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
