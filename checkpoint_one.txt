@@ -59,15 +59,11 @@
 
 
 21) What are 3 way to create a Python string?
-    double quotes "hello world"
-    single quotes 'Hello World"
-    tripple double or single quotes for multi lines
-     '''hello world,
-    hola mundo,
-    hallo welt.'''
-
+    
 
 22) What are 2 types of number data types in Python? Provide an example.
+    int ex: x = 20
+    float ex: x = 26.8
 
 
 23) Are we able to add two strings together? How?
