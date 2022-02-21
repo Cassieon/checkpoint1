@@ -29,10 +29,15 @@
 
 
 11) What can I do to know where I am within my file system?
-    pwd "print working directory"
+
 
 12) Describe the anatomy of a Python dictionary and create one below.
-
+    A dictionary is made up of keys and values and is ordered changable and do not allow dups
+    Ex: thisdict = {
+        "brand": "Pontiac",
+        "model": "G6",
+        "year": 2008
+    }
 
 13) What type of values can be in a Python dictionary?
 
