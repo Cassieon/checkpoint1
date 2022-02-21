@@ -11,12 +11,11 @@
 
 
 5) What can we use to save a value for later use in our code? Provide an example.
-    We can use any of the data types 
-    Ex: x = 7 
-        y = "blue"
-        
-6) What can I do to prevent certain files and directories from being tracked by git?
 
+
+6) What can I do to prevent certain files and directories from being tracked by git?
+    Create an ignore branch and a .gitignore file
+    Move the file you want to ignore into that file and save
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 
