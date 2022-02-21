@@ -56,9 +56,15 @@
 
 
 20) What does backend / server side mean?
-    It is where all the code is written that can't be seen by the user
+
 
 21) What are 3 way to create a Python string?
+    double quotes "hello world"
+    single quotes 'Hello World"
+    tripple double or single quotes for multi lines
+     '''hello world,
+    hola mundo,
+    hallo welt.'''
 
 
 22) What are 2 types of number data types in Python? Provide an example.
