@@ -17,20 +17,10 @@
     Create a .gitignore file and mvoe the files you want to ignore into the .gitignore file
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
-    We can use the for loop or while loop 
-    Ex: while loop
-        i = 1
-        while 1 < 10
-            print(i)
-            i += 1
     
-    Ex: for loop 
-        fruits = ["apple", "banana", "cherry"]
-        for x in fruits:
-            print(x)    
 
 8) When saving a value for later use what type of operator do we use?
-
+   Assignment operators 
 
 9) What's the key difference between git revert and git reset?
 
