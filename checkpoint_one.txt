@@ -35,10 +35,10 @@
    
 
 13) What type of values can be in a Python dictionary?
-    Any of the data types that python uses can be used in a dictionary
+    
 
 14) What type of values can be in a Python list?
-
+    Any of the data types can be uses in a python list
 
 15) What data type are True and False?
 
