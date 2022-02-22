@@ -114,10 +114,10 @@
      
 
 36) How can I accept user input into my Python code?
-    input()
+    
 
 37) How can I see all of my git commits?
-
+    git log or git log --oneline
 
 38) How can I add a value to a Python list?
 
