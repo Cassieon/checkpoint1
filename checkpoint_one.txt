@@ -99,16 +99,11 @@
     
 
 31) What are the Python comparison operators? List each and describe.
-    == Equal
-    != Not equal
-    > Greater than
-    < Less than
-    >= Greater than or equal to
-    <= Less than or equal to 
 
 
 32) What are the Python logical operators? List each and describe.
-
+    is     -Return True if both variables are the same object
+    is not -Returns True if both variables are not the same
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 
