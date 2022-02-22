@@ -135,12 +135,11 @@
     
 
 43) What is a pull request? Describe it in detail.
-    A pull request is a request for the main code from the "big computers" to be pulled 
-    down to your local machine to work on code that doesn't affect the main code unit
-    merged
+    
 
 44) Why do we use services like Github?
-
+    To stay concected with the main code and constant changes being made to it
+    and to upload changes we've made and communicate with our team
 
 45) How can I create a git branch?
 
