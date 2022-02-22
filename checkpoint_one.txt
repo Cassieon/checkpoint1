@@ -129,10 +129,11 @@
     
 
 41) How can I remove a value from a Python dictionary?
-    using del
+    
 
 42) How can I change a value in a Python dictionary?
-
+    ex: dic_x = {'primary1': 'Red', 'primary2' : 'Blue'}
+        dic_x['primary1'] = 'yellow'
 
 43) What is a pull request? Describe it in detail.
 
