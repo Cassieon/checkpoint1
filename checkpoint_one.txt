@@ -138,11 +138,10 @@
     
 
 44) Why do we use services like Github?
-    To stay concected with the main code and constant changes being made to it
-    and to upload changes we've made and communicate with our team
+   
 
 45) How can I create a git branch?
-
+    git branch BRANCH NAME
 
 46) How can I switch to another branch?
 
