@@ -102,11 +102,14 @@
 
 
 32) What are the Python logical operators? List each and describe.
-    is     -Return True if both variables are the same object
-    is not -Returns True if both variables are not the same
+
 
 33) How can we decide to run one piece of code versus another? Provide an example.
-
+    With conditionals using an if... Else statements
+    Ex: x = 10
+        y = 35
+        if x > y:
+            print("x is greater than y")
 
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
 
