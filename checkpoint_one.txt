@@ -108,11 +108,10 @@
     
     
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
-    I'm not sure if i'm answereing this correctly, but you could upload your work to git hub 
-    then create a seperate branch in your code editor to safely work on your code.
+
 
 35) What do I do in order to make sure I have the latest code on my machine?
-
+    git pull 
 
 36) How can I accept user input into my Python code?
 
