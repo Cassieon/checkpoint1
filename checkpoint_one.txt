@@ -132,11 +132,12 @@
     
 
 42) How can I change a value in a Python dictionary?
-    ex: dic_x = {'primary1': 'Red', 'primary2' : 'Blue'}
-        dic_x['primary1'] = 'yellow'
+    
 
 43) What is a pull request? Describe it in detail.
-
+    A pull request is a request for the main code from the "big computers" to be pulled 
+    down to your local machine to work on code that doesn't affect the main code unit
+    merged
 
 44) Why do we use services like Github?
 
