@@ -96,9 +96,15 @@
 
 
 30) How can I split a string into a list with each value in the list being a line of the string?
-    lst = string.split(',')
+    
 
 31) What are the Python comparison operators? List each and describe.
+    == Equal
+    != Not equal
+    > Greater than
+    < Less than
+    >= Greater than or equal to
+    <= Less than or equal to 
 
 
 32) What are the Python logical operators? List each and describe.
