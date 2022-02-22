@@ -123,10 +123,10 @@
 
 
 39) How can I remove a value from a Python list?
-    remove()
+
 
 40) How can I access a value in a Python dictionary?
-
+    dict.values()
 
 41) How can I remove a value from a Python dictionary?
 
