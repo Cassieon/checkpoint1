@@ -153,6 +153,7 @@
 
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
-    git init --> git add --> git commit
+
 
 50) Is spacing in my Python code important? Why?
+    yes... because syntax 
